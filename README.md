@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/mlwarekruyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mlwarekruyx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arslan-zulfiqar-335230280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arslan-zulfiqar-335230280/" height="30" width="40" /></a>
-<a href="https://discord.gg/malware_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="malware_____" height="30" width="40" /></a>
+<a href="https://discord.gg/malware____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="malware____" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

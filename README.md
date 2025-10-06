@@ -13,7 +13,7 @@
 
 - My Portfolio site [https://p3ntest.vercel.app/](https://p3ntest.vercel.app/)
 
-- Blogs that i have written so far [https://www.vulnsec.tech/](https://www.vulnsec.tech/)
+- Blogs that i have written so far [https://www.vulnsec.tech/](https://www.vulnsec.tech/) and [https://medium.com/@arslanzulfiqar04](https://medium.com/@arslanzulfiqar04)
 
 - 👨‍💻 All of my projects are available at [https://github.com/arslanenginner](https://github.com/arslanenginner)
 

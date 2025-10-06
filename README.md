@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arslan</h1>
-<h3 align="center">A passionate Web Application Penetration Tester from Pakistan, dedicated to improving security through ethical hacking and vulnerability assessments.</h3>
+<h3 align="center">A passionate Web Application and Network Penetration Tester from Pakistan, dedicated to improving security through ethical hacking and vulnerability assessments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanenginner&label=Profile%20views&color=0e75b6&style=flat" alt="arslanenginner" /> </p>
 
@@ -10,6 +10,10 @@
 - 🌱 I’m currently learning **Server side attacks on Web Application.**
 
 - 👯 I’m looking to collaborate on **web application security projects, penetration testing engagements, and vulnerability research.**
+
+- My Portfolio site [https://p3ntest.vercel.app/](https://p3ntest.vercel.app/)
+
+- Blogs that i have written so far [https://www.vulnsec.tech/](https://www.vulnsec.tech/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/arslanenginner](https://github.com/arslanenginner)
 
